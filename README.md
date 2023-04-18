@@ -5,7 +5,7 @@
 -🏫 Nova college
 -💻 Software developer student
 -🎮 Gamen 
-<p>
+<br>
 ![y's github stats](https://github-readme-stats.vercel.app/api?username=Y189470&show_icons=true&theme=radical)
 <div align=left>
-</p>
+</br>
