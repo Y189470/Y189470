@@ -3,7 +3,7 @@
 
 -17 jaar oud
 -🏫 Nova college
--💻 Software developer studenta
+-💻 Software developer student
 -🎮 Gamen 
 <br>
 ![y's github stats](https://github-readme-stats.vercel.app/api?username=Y189470&show_icons=true&theme=radical)
